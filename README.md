@@ -1,2 +1,2 @@
 # TWFC_Texmod_Launcher
-Super lanceur
+Juste un lanceur pour lancer texmod et le jeu avec des packs automatiquement !
